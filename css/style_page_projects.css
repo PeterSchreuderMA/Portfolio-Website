@@ -1,0 +1,59 @@
+.a_project
+{
+    border-style: solid;
+
+    margin: 5%;
+}
+
+.projects img
+{
+    width: 100%;
+
+    border-style: solid;
+    border: 6px;
+    border-bottom-width: 10px;
+}
+
+.pr_title
+{
+    margin: 2%;
+}
+
+.pr_title_skills
+{
+    margin: 2%;
+}
+
+.projects h3
+{
+    margin: 2%;
+    font-weight: normal;
+}
+
+/* Edit the fa icons */
+
+.fa
+{
+    text-align: center;
+    text-decoration: none;
+    margin: 2%;
+
+    font-size: 60px;
+}
+
+.fa:hover
+{
+    opacity: 0.7;
+    cursor: pointer;
+}
+
+
+.fa-github
+{
+    color: rgb(107, 42, 128);
+}
+
+.fa-trello
+{
+    color: rgb(0, 121, 191);
+}

@@ -1,0 +1,22 @@
+.Title
+{
+    //- Text;
+    text-align: center;
+
+
+    margin: 0px;
+    font-size: 32px;
+    background-color: rgb(230, 110, 1);
+    padding: 6px;
+}
+
+.Title:hover
+{
+    cursor: pointer;
+}
+
+.Title h1
+{
+    color: whitesmoke;
+    margin: 0 10px;
+}
