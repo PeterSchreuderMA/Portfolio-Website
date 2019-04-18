@@ -35,7 +35,7 @@ EditProjectElement
     "Portfolio Website", /* Title */
     undefined, /* Image */
     '- HTML<br>- CSS<br>- PHP', /* Skills */
-    'When I started to develop my portfolio website I had little to no experience with webdevelopment languages. Currently I have around ' /* Story */
+    "When I started to develop my portfolio website I had little to no experience with web development languages. Currently I have around 9 hours put into it. And i'm satisfied with the result, for now." /* Story */
 );
 
 EditProjectElement
